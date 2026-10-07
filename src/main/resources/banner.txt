@@ -1,0 +1,17 @@
+
+  _   _   _____  __   __   ___
+ | \ | | | ____| \ \ / /  / _ \
+ |  \| | |  _|    \ V /  | | | |
+ | |\  | | |___   / . \  | |_| |
+ |_| \_| |_____| /_/ \_\  \___/
+
+  TECHSTORE | Tienda de tecnologia
+  ----------------------------------------------------------
+  Usuarios y roles  /  Permisos  /  JWT
+  Categorias        /  Articulos /  Pedidos
+  ----------------------------------------------------------
+  TechStore sobre plantilla REST con roles y permisos
+
+  Spring Boot ${spring-boot.version} | Java ${java.version}
+  Perfil: ${spring.profiles.active}
+
